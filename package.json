@@ -1,0 +1,25 @@
+{
+  "name": "giftmaker",
+  "version": "1.0.0",
+  "description": "GiftMaker services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "~4.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alarion24/giftmaker.git"
+  },
+  "keywords": [
+    "giftmaker"
+  ],
+  "author": "Serhii Rudenko (alarion24@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alarion24/giftmaker/issues"
+  },
+  "homepage": "https://github.com/Alarion24/giftmaker#readme"
+}
